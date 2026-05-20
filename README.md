@@ -15,7 +15,7 @@
 
 [googl](http://www.google.com)
 
-[doc文件](doc/README.md)
+[doc文件](doc/點餐系統.docx)
 
 
 
