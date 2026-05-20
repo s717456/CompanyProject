@@ -9,6 +9,6 @@
 ###### abc
 
 [google](http://www.google.com)
-[doc文件](doc/index.html)
+[doc文件](test/README.md)
 [java檔](SchoolProject/src/com/sa/Student.java)
 
