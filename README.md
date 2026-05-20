@@ -10,4 +10,5 @@
 
 [google](http://www.google.com)
 [doc文件](doc/index.html)
-[java檔](SchoolProject)
+[java檔](SchoolProject/src/com/sa/Student.java)
+
