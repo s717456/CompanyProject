@@ -9,6 +9,6 @@
 ###### abc
 
 [google](http://www.google.com)
-[doc文件](test/README.md)
+[doc文件](/SimpleShop_DynamicWebProjecttest/README.md)
 [java檔](SchoolProject/src/com/sa/Student.java)
 
